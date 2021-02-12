@@ -1,0 +1,31 @@
+{
+  "plans": [
+    {
+      "id": "0",
+      "title": "S",
+      "description": "Tienes poco tiempo para prepararte, y tienes objetivos a corto plazo, como vacaciones!",
+      "previousPrice": "499000",
+      "discount": "30",
+      "newPrice": "349000",
+      "productId": "6014"
+    },
+    {
+      "id": "1",
+      "title": "M",
+      "description": "Ideal si deseas profundizar tus habilidades y lograr una mayor fluidez en el idioma.",
+      "previousPrice": "739000",
+      "discount": "50",
+      "newPrice": "369000",
+      "productId": "6015"
+    },
+    {
+      "id": "2",
+      "title": "L",
+      "description": "Si tu meta es dominar el idioma, esta opción te permite ampliar más los conocimientos y la práctica.",
+      "previousPrice": "1130000",
+      "discount": "60",
+      "newPrice": "799000",
+      "productId": "6016"
+    }
+  ]
+}
